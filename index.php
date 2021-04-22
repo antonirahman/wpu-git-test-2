@@ -14,6 +14,11 @@
     <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Praesentium exercitationem corporis necessitatibus
         aliquam quisquam similique dolores deserunt dolor quis, rem velit. Unde laudantium corporis sint et, quae ipsum
         odit veritatis?</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+        <li>tiga</li>
+    </ul>
 </body>
 
 </html>
